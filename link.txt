@@ -1,0 +1,1 @@
+https://local-eats-unisenac.vercel.app/static/index.html
